@@ -18,7 +18,7 @@ Run this command from terminal:
 
 =>       npm install
 
-=>       npm install cookie-session express express-validator multer nodemon
+=>       npm install cookie-session express express-validator multer nodemon body-parser
 
 =>        npm run dev
 
