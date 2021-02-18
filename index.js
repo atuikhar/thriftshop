@@ -20,6 +20,6 @@ app.use(productsRouter);
 app.use(adminProductsRouter);
 app.use(cartsRouter);
 
-app.listen(process.env.PORT || 5000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log('Listening');
 });
